@@ -35,7 +35,7 @@ function Navbar() {
           </a>
         ))}
         <a
-          href="/resume.pdf"
+              href="./resume.pdf"
           target="_blank"
           className="text-sm px-4 py-2 rounded-lg border border-blue-500 text-blue-400 hover:bg-blue-500 hover:text-white transition-all"
         >
@@ -65,7 +65,7 @@ function Navbar() {
               </a>
             ))}
             <a
-              href="/resume.pdf"
+          href="./resume.pdf"
               target="_blank"
               className="px-4 py-2 rounded-lg border border-blue-500 text-blue-400 hover:bg-blue-500 hover:text-white transition-all"
             >
