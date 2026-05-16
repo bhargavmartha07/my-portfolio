@@ -31,7 +31,7 @@ A fully responsive, animated personal portfolio website built with React, Vite, 
 
 ## Live Site
 
-[View Live](https://my-portfolio.vercel.app)
+[View Live](https://bhargavmartha07.github.io/my-portfolio/)
 
 ## Getting Started
 
