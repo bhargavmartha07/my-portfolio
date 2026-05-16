@@ -1,0 +1,41 @@
+Bhargav Martha
+bhargavmartha07@gmail.com | +91-9182572317 | linkedin.com/in/bhargav-martha-784a1b383
+Education
+Aditya University, B.Tech in AIML Sept 2023 – Present
+GPA: 8.89/10.0
+Jawaharlal Navodaya Vidyalaya, Intermediate (M.P.C) May 2021 – May 2023
+GPA: 8.8/10.0
+Experience
+Machine Learning Intern, OneStop.ai – Hyderabad, Telangana May 2025 – June 2025
+• Developed and trained machine learning models to predict diabetes risk using patient health data such as glucose
+levels, BMI, and age.
+• Performed data preprocessing, cleaning, and feature engineering to improve model performance and reliability.
+• Evaluated multiple algorithms and optimized hyperparameters to achieve a prediction accuracy of 85
+• Implemented model evaluation using metrics such as accuracy, precision, recall, and confusion matrix.
+• WorkedwithPython, Pandas, NumPy, andScikit-learninGoogleColabtobuildandtesttheend-to-endMLpipeline.
+Projects
+Payment␣Gateway␣(Async␣Architecture) | GitHub
+Tools:␣Node.js,␣PostgreSQL,␣Redis,␣Docker
+• Architected␣an␣asynchronous␣payment␣backend␣with␣webhook␣handling,␣idempotency␣keys,␣and␣transaction␣logging.
+• Implemented␣retry␣logic,␣dead-letter␣queues,␣and␣idempotent␣payment␣flows␣for␣reliable␣transaction␣processing.
+• Built␣RESTful␣APIs␣with␣Express.js␣and␣integrated␣PostgreSQL␣for␣persistent␣storage␣with␣Prisma␣ORM.
+Real-Time Auction Platform | GitHub
+Tools: Node.js, Express.js, PostgreSQL, Docker
+• Built a real-time auction platform using microservices architecture with services for authentication, auctions, bidding,
+and notifications.
+• Designed an event-driven system using RabbitMQ for bid processing and inter-service communication.
+• Implemented WebSocket-based real-time bidding with JWT authentication and room-based event broadcasting.
+• Developed a secure API Gateway with route proxying, authentication middleware, and WebSocket upgrade handling.
+• Containerized the entire system using Docker and docker-compose with health checks, service orchestration, and
+PostgreSQL databases.
+Achievements / Certifications
+• Earned Certification on Introduction to AI from NPTEL.
+• Solved 400+ DSA problems and competed in contests on platforms like CodeChef.
+Technologies
+Programming languages: C++, Python, SQL
+Web Technologies: HTML, CSS, Javascript, Bootstrap, REST APIs, Full-Stack Development
+Frameworks and Libraries: Node.js, Express.js, React.js
+Databases and Tools: PostgreSQL, MySQL, Git, GitHub, Docker, Google Colab
+Data and Machine Learning: Pandas, NumPy, Scikit-learn, Data Preprocessing, Model Evaluation
+Coding Profiles
+LeetCode: Visit Profile | HackerRank: Visit Profile | CodeTracker: Visit Profile

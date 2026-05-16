@@ -11,15 +11,9 @@ import ScrollProgress from "./components/ScrollProgress";
 function App() {
   return (
     <div className="bg-black text-white min-h-screen relative">
-
-      {/* Gradient Background */}
-      <div className="fixed inset-0 -z-10 bg-gradient-to-b from-black via-gray-900 to-black opacity-60"></div>
-
-      {/* Cursor Glow */}
-      <div className="pointer-events-none fixed inset-0 -z-10 bg-[radial-gradient(circle_at_center,rgba(255,255,255,0.08),transparent_60%)]"></div>
-
-      <ScrollProgress />
+      <div className="fixed inset-0 -z-10 bg-gradient-to-b from-black via-gray-950 to-black" />
       <CursorGlow />
+      <ScrollProgress />
       <Navbar />
       <Hero />
       <About />
@@ -27,7 +21,6 @@ function App() {
       <Projects />
       <Contact />
       <Footer />
-
     </div>
   );
 }

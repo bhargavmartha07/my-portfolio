@@ -1,16 +1,56 @@
-# React + Vite
+# Bhargav Martha — Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fully responsive, animated personal portfolio website built with React, Vite, Tailwind CSS, and Framer Motion.
 
-Currently, two official plugins are available:
+## Tech Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- **React 19** — UI framework
+- **Vite** — Build tool
+- **Tailwind CSS** — Styling
+- **Framer Motion** — Animations & parallax
+- **React Icons** — Icon library
+- **React Type Animation** — Typing effect
 
-## React Compiler
+## Sections
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **Hero** — Name, role, typing animation, CTA buttons
+- **About** — Bio, education, experience highlights
+- **Skills** — Categorized skill bars with proficiency levels
+- **Projects** — 3 featured projects with tech stacks and links
+- **Contact** — Email, GitHub, LinkedIn, LeetCode, phone
 
-## Expanding the ESLint configuration
+## Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Fully responsive (mobile, tablet, desktop)
+- Parallax scrolling effect (floating gradient orbs)
+- 3+ on-scroll animations (staggered cards, fade-in sections, skill bar fills)
+- prefers-reduced-motion support
+- Smooth scroll navigation
+- Cursor glow effect
+- Scroll progress indicator
+
+## Live Site
+
+[View Live](https://my-portfolio.vercel.app)
+
+## Getting Started
+
+```bash
+# Clone the repository
+git clone https://github.com/bhargavmartha07/my-portfolio.git
+
+# Navigate to project directory
+cd my-portfolio
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+
+# Build for production
+npm run build
+
+# Preview production build
+npm run preview
+```
